@@ -565,7 +565,7 @@ body{
     width: 50rem;
     height: 50rem;
     position: absolute;
-    background-image: url(/images/shape3.svg);
+    background-image: url(../images/shape3.svg);
     background-repeat: no-repeat;
     background-size: contain;
     bottom: -65px;
